@@ -4,4 +4,5 @@ LABEL authors="Gustavo Carvalho <carvalho.gustavop@gmail.com>, Joao Pedro Pinhei
 
 RUN conda install -y \
     pandas=0.24.2 \
-    xlrd=1.2.0
+    xlrd=1.2.0 \
+    openpyxl=2.6.1
