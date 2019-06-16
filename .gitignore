@@ -109,3 +109,5 @@ venv.bak/
 # Data files
 app/input/**/*.xlsx
 app/input/**/*.pdf
+app/output/
+
