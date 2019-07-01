@@ -109,5 +109,6 @@ venv.bak/
 # Data files
 app/input/**/*.xlsx
 app/input/**/*.pdf
+!app/input/contratos-controle.xlsx
 app/output/
 
